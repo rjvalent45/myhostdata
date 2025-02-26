@@ -1,0 +1,10 @@
+{
+    "internet": [        
+        {
+            "modem": "modemA",
+            "address": "192.168.100.1",
+            "status": "online",
+            "type": "modem"
+        }
+    ]
+}
